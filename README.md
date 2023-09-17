@@ -1,7 +1,4 @@
-# Amazon_Clone
 # Amazon UI Clone
-
-![Amazon UI Clone Screenshot](<add your screenshot URL here>)
 
 This project is a simplified clone of the Amazon website's user interface created by [codewithAbhi02](https://github.com/codewithAbhi02). It serves as a visual representation of Amazon's homepage.
 
