@@ -4,7 +4,7 @@ This project is a simplified clone of the Amazon website's user interface create
 
 ## Demo
 
-You can view a live demo of this Amazon UI Clone [here]().
+You can view a live demo of this Amazon UI Clone (https://amazonclone07abhishek.netlify.app/).
 
 ## Features
 
